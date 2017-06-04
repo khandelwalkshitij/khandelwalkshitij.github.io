@@ -1,0 +1,20 @@
+		@font-face {
+	    font-family: lato;
+	    src: url(fonts/Lato2OFL/Lato-Regular.ttf);	
+		}		
+		
+		body {
+	    background-image: url("img/back3.jpg");
+		background-size : 100% auto;
+		font-family:lato;
+		font-size:18px;
+		}
+		
+		.img-circle {
+	    border-radius: 50%;
+		}
+		
+		a.font-lato {
+		font-family: lato;
+		font-size: 18px;
+		}
