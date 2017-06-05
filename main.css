@@ -8,8 +8,40 @@
 		background-size : 100% auto;
 		font-family:lato;
 		font-size:18px;
+		margin-bottom:8%;
 		}
 		
 		.img-circle {
 	    border-radius: 50%;
 		}
+		
+		#footer{
+	    position:fixed;
+	    height:8%;
+	    bottom:0px;
+	    left:0px;
+	    right:0px;
+	    margin-bottom:1%;
+		}
+
+		.fa {
+		color:#B0B0B0
+		}
+				
+		.fa-facebook:hover {
+		color: #3b5998;
+		}		
+		
+		.fa-twitter:hover {
+		color: #4099FF
+		}
+		
+		.fa-github:hover {
+		color: black
+		}
+				
+		.fa-linkedin:hover {
+		color: #007bb6;
+		}
+		
+}
