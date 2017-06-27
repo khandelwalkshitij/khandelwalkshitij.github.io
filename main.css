@@ -47,5 +47,10 @@
 		.fa-medium:hover {
 		color: #32CD32;
 		}
-		
+		.fa-instagram:hover {
+		color: #cd486b;
+		}
+		.fa-bandcamp:hover {
+		color: black;
+		}
 }
