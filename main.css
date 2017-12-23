@@ -5,10 +5,13 @@
 		
 		body {
 	    background-image: url("img/back3.jpg");
-		background-size : 100% auto;
+		background-size : cover;
+		background-position: center;
+	    background-repeat: no-repeat;
 		font-family:lato;
 		font-size:18px;
 		margin-bottom:8%;
+		height: 100%; 
 		}
 		
 		.img-circle {
@@ -25,7 +28,7 @@
 		}
 
 		.fa {
-		color:#B0B0B0
+		color:#666666
 		}
 				
 		.fa-facebook:hover {
@@ -53,4 +56,19 @@
 		.fa-bandcamp:hover {
 		color: black;
 		}
-}
+
+		.button {
+	    background-color: #555555;
+	    border: none;
+	    color: white;
+	    padding: 10px 19px;
+	    text-align: center;
+	    text-decoration: none;
+	    display: inline-block;
+	    font-size: 16px;
+		}
+		
+		.button:hover {
+		background-color: #777777
+		}
+		
